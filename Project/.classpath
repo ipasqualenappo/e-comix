@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="db/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="db/servlet-api.jar"/>
+	<classpathentry kind="lib" path="db/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="db/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FauxL/Documents/Progetti Web/Junit/junit-4.12.jar" sourcepath="C:/Users/FauxL/Documents/Progetti Web/Junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FauxL/Documents/Progetti Web/Junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

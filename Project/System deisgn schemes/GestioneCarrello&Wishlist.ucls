@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="GestioneFumetteria" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneFumetteria" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="631" width="1751" x="238" y="207"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="GestioneProdotti" project="ProgettoWeb" file="/ProgettoWeb/src/GestioneProdotti" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="985" width="2377" x="-27" y="925"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="GestioneFumetteria.deleteModelDs" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneFumetteria/deleteModelDs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="626" y="462"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="GestioneFumetteria.CartModelDS" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneFumetteria/CartModelDS.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="952" y="446"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="GestioneFumetteria.WishesModelDS" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneFumetteria/WishesModelDS.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="252" width="374" x="1293" y="341"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="GestioneProdotti.GadgetBean" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/GadgetBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="134" y="1348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="GestioneProdotti.ComicsBean" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/ComicsBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2228" y="1414"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="GestioneProdotti.Cart" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/Cart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="768" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="GestioneProdotti.CartControl" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/CartControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1218" y="1714"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="GestioneProdotti.CartModel" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/CartModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1848" y="1712"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="GestioneProdotti.WishesModel" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/WishesModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="544" y="1680"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="GestioneProdotti.WishesControl" project="ProgettoWeb" 
+    file="/ProgettoWeb/src/GestioneProdotti/WishesControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1782" y="1202"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="13">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="14">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="23">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <realization id="24">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <realization id="26">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="27">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="28" name="gadgets"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="31">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="34">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="35" name="model2"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="38" name="model"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="41">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="42" name="model2"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="47">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="48" name="comics"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="51" name="model"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
